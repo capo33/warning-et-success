@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+h1,h4{
+    font-family: 'Special Elite', cursive;
+}
+div{
+    padding: 20px;
+    background-color: mistyrose;
+    border: 1px solid red;
+    max-width: 1200px;
+    margin: auto auto 2% auto;
+ }
